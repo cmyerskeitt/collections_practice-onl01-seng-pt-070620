@@ -40,6 +40,6 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.collect  
-  array.each 
+  array.collect do |word| 
+    if word == 
   
