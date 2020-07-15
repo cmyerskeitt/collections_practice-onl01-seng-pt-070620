@@ -39,4 +39,7 @@ def sum_array(array)
   sum
 end
 
+def add_s(array)
+  if array.length += 2 
+  array.each 
   
