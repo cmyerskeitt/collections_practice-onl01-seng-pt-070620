@@ -32,5 +32,9 @@ def find_a(array)
 end
 
 def sum_array(array)
-   returns 
+  sum = 0
+  array.each do |i|
+  sum += i
+end
+
   
